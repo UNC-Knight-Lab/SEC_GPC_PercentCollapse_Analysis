@@ -1,5 +1,4 @@
-# Size-Exclusion Chromatography Processing for Polymer Collapse Analysis
-
+# Size-Exclusion Chromatography Processing and Percent Collapse Calculation
 Python notebooks for processing LabSolutions size-exclusion chromatography exports, generating molecular weight chromatograms, and calculating polymer percent collapse.
 
 ## Files
